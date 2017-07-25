@@ -4,7 +4,7 @@
 //
 //  Created by zhangming on 17/7/25.
 //  Copyright © 2017年 youjiesi. All rights reserved.
-//
+//  Mr.Right
 
 #import "AppDelegate.h"
 #import "CustomTabBarViewController.h"
